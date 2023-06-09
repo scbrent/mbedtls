@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fscbrent%2Fmbedtls.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fscbrent%2Fmbedtls?ref=badge_shield)
+
 README for Mbed TLS
 ===================
 
@@ -324,3 +326,7 @@ Contact
 * To report a security vulnerability in Mbed TLS, please email <mbed-tls-security@lists.trustedfirmware.org>. For more information, see [`SECURITY.md`](SECURITY.md).
 * To report a bug or request a feature in Mbed TLS, please [file an issue on GitHub](https://github.com/Mbed-TLS/mbedtls/issues/new/choose).
 * Please see [`SUPPORT.md`](SUPPORT.md) for other channels for discussion and support about Mbed TLS.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fscbrent%2Fmbedtls.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fscbrent%2Fmbedtls?ref=badge_large)
